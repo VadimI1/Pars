@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bitriks-413311",
+  "private_key_id": "b6a6348d8b4866625ae19714f89c446d2413ff07",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDQt+uwkjmIkGny\n8KAndXa7ShqPSa3lalPEex5XanMQ2HWio99pPgIADkvoObNS8uXg1MPRvD22iko1\nEkpkIChVyChXempcyAlq38ZU7FdXlzBi+OHdbylz9RgxzsG5G1KHHaB7Ef6PeXKR\nQGQEA/JgEpzPX6qXZiic9RUagtBzzgkLNC8OrzOIfqwxCCR3MncUmhy9r4E7aDpV\n1TOnKfgG+67pIsjJoRKi69CboNozyRQmdEtTf3ZOnnJW38vFIdifca51fZt5ukj/\nk0yvdZdC9NK4vshEFiKmsT+GrHX4bGqm+86xFSjepXxCtf0KEVMMxNYs3iFd/62p\nhpy2YAUhAgMBAAECggEAKfzV7S99Y3up1LWTglyfBg5iSXEJCp3ZPC2IbQ19GGZz\nQ8SzrPhMbrZxjsYMzSMQG6qxuf+kapRnWUXUsU/GzXr2oqJ9wyx6uIVL4MmqyHQh\nx8dJqMI0FJ+5vktZrWNRtty+7AMysqo74fySIjypBaq44P7d0pc6lFi5Zhvq02DC\nb3ccFr7QZBTfNHrobZ4Sxb1WV6RyDvJ8yamJEMrXUAD3K1Zs2wtckVyXFwlN3y5N\nJzXa/y4n0AXDq2HG07xtCWopyTcOQtFomBFJhulJZzAm1aAv25vj8cj6Ks0yRpA4\nq/NO/C6tkGdyAhvVVCEvEMlkz5+0vcMJ76tCerEOAQKBgQDo9kO3t1ZTEAuyigxw\n22jyWvQQwF/R89hiOQvz2gPZh9iXyo3+j1Mg1QKtC77XntU7Ewtjfx/aFs3o+6rG\n3pPtc8om7qN7XBo4G3259BXGFzw9kOj6fx6qNkAelNd0ZvJNgYvb7noBDfMJEqYf\nN0ttJE1ayDf969GFaBR9EnGuRwKBgQDlW+ZM0dqaM2BFRslueN1k9jqgtVW1vOkX\nkNuGvxerpTCe9U66WsQqaWIjzWPHY1FvBuyXRApZJYgTliFnR2xZqLfu6t/iGUg7\nlKtKLzQBUSCy3mDhvAoesq0rH6tuizcFm+JgcKHNHVZxI12z4d6wvlxYHHvNIFIL\n7mS5ACJdVwJ/ArrgEEcVu+N0P6NegfQQRsbKFWgrt0okPwJsIW9snB/7acv13gXP\n85KLdXutwNkbppWSjJfwx518zD4mwi3Zje7Nb6dcQxXRONcZohQ6LRgYnKAWGtli\ngpwgJDuaSsLqE/5wpSMmStze/Dw7tiHvwFeskGPIRDF/QxD1LIIK0wKBgD0Ssolk\nG+yRn6HyznJfNrzKoCPpBVCmY/8FcJ85xSjMjNzW/0a6IqAUfbCA4X/XX3jMBDXn\nRUYlq01j3bMtnpllRs0Ut9bx2n0bAl13okZzftyCQJP7SUqRU3E3NqPx6A3TS31Y\noI0IsdrgivP6Qh0YI2jG9ORTJeXNbf6hHYVzAoGAeAT82VQYdW5P+PQMl6QHSYSx\nE18FCoaiBgm9JfFx5fLDC4dhOPsL4TqR65jGBK3G1m2WPvWy4nvF3pD3MgsmPHKb\nPEkzikhsiy0BCBqeqNZt2fsDjYcwFgonz14sQeoe9FnWAlTicnM7PUJUGfUO+KCU\nVO65ZpxMKG45D/tlmyE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bitriks@bitriks-413311.iam.gserviceaccount.com",
+  "client_id": "117881106402699807029",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bitriks%40bitriks-413311.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
