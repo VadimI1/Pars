@@ -514,7 +514,6 @@ def get_page(html) :
     #print(soup)
     items = soup.find_all('div', class_ = 'mb-10 sm:mb-16 flex flex-column gap-3')
 
-    p = 1
     for item in items:
         URL1 = item.find("a").get('href')
         #URL1 = item.find("a")
